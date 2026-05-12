@@ -1,6 +1,6 @@
 # Olá, sou Denis Mauricio 👨🏻‍🚀
   <img align="right" src="./src/pixelmoon.gif" width="30%">
- 🎓 Graduado em Ciência da Computação<br>📘  Estudando Jetpack Compose + UX/UI<br>👨‍💻 Focado em projetos Android Nativo<br>🕹️ Apaixonado por jogos<br><br>Acredito que a curiosidade e estado de hiperfoco pode mover um desenvolvedor<br>a criar muito mais do que ele poderia imaginar e foi isso que me motivou a estudar<br>essa área de atuação, questionar é o caminho do entender<br><br>
+ 🎓 Graduado em Ciência da Computação<br>📘  Estudando Jetpack Compose + UX/UI<br>🏗️ Focado em projetos Android Nativo<br>🕹️ Apaixonado por jogos<br><br>Acredito que a curiosidade e estado de hiperfoco pode mover um desenvolvedor<br>a criar muito mais do que ele poderia imaginar e foi isso que me motivou a estudar<br>essa área de atuação, questionar é o caminho do entender<br><br>
 
 <br /><br/>
 
