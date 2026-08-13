@@ -2,10 +2,25 @@
   <img align="right" src="./src/citynight-art.gif" width="20%">
  🎓 Graduado em Ciência da Computação<br>📘  Estudando Apex | SOQL <br>🏗️ Trabalhando em projetos Salesforce<br>🕹️ Apaixonado por jogos<br><br>Acredito que a curiosidade e estado de hiperfoco pode mover um desenvolvedor<br>a criar muito mais do que ele poderia imaginar e foi isso que me motivou a estudar<br>essa área de atuação, questionar é o caminho do entender<br><br>
 
-## 📱 Socials:
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:contato.denismauricio@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/denismauricio/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/kino__ol/)
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/denismauricio" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.instagram.com/kino__ol/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:contato.denismauricio@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 👨🏻‍💻 Stacks:
 <div align="left">
@@ -26,5 +41,7 @@
 ![](https://github-readme-stats.shion.dev/api?username=Kino0&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Kino0&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kino0&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center"> Valeu pela visita choom ! </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
