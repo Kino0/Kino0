@@ -44,9 +44,8 @@
 
 ## 💻 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Kino0&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kino0&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kino0&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center"> Valeu pela visita choom ! </p>
+<p align="left"> Valeu pela visita choom ! </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
