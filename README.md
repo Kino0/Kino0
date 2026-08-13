@@ -22,7 +22,7 @@
 <div><img width="8" /></div>
 <div><img width="8" /></div>
 
-<table align="center">
+<table align="left">
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/denismauricio" target="_blank" rel="noopener noreferrer">
@@ -41,6 +41,9 @@
     </td>
   </tr>
 </table>
+
+<div><img width="8" /></div>
+<div><img width="8" /></div>
 
 ## 💻 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Kino0&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
